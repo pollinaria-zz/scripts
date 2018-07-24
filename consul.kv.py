@@ -1,5 +1,3 @@
-  GNU nano 2.5.3                                                            File: consul.kv.py                                                                                                                      Modified  
-
 import sys
 import consul
 import string
